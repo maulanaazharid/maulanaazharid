@@ -1,4 +1,4 @@
-# Hi, I'm Maulana Azhar 👋
+# Hi, I'm Maulana Azhar
 
 Software Developer who loves building functional web applications and learning new technologies.
 
