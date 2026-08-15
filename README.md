@@ -8,7 +8,7 @@ Software Developer who loves building functional web applications and learning n
 - **Languages:** JavaScript, HTML5, CSS3
 - **Frontend:** React, Tailwind CSS
 - **Backend:** Node.js, Express, Python, C++
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** GitHub, VS Code, Acode
 
 ---
 
