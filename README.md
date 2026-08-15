@@ -1,13 +1,15 @@
 # Hi, I'm Maulana Azhar
 
-Software Developer who loves building functional web applications and learning new technologies.
+I'm an Informatics student building my foundation in **programming, web development, and cybersecurity.**
+
+I enjoy learning how technology works, building projects from what I learn, and exploring how applications and systems can be made more secure. My current focus is strengthening my programming fundamentals while gradually exploring Cyber Security, particularly **Ethical Hacking and Penetration Testings.**
 
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** JavaScript, HTML5, CSS3
+- **Languages:** Python, JavaScript, C++, HTML5, CSS3
 - **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js, Express, Python, C++
+- **Backend:** Node.js, Express
 - **Tools:** GitHub, VS Code, Acode
 
 ---
