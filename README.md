@@ -12,11 +12,6 @@ Software Developer who loves building functional web applications and learning n
 
 ---
 
-### 📊 GitHub Stats
-![Maulana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maulanaazharid&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Connect with Me
 - **LinkedIn:** [https://www.linkedin.com/in/-maulana-azhar](https://linkedin.com)
 - **Email:** maulanaazhar.student@gmail.com
