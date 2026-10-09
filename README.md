@@ -1,4 +1,3 @@
-<!-- HEADER TYPING EFFECT -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00599C&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Maulana+Azhar!+%F0%9F%91%8B;Informatics+Student+%F0%9F%92%BB;Web+Dev+%26+Cybersecurity+Enthusiast+%F0%9F%94%90" alt="Typing SVG" />
 </p>
@@ -18,21 +17,18 @@ I'm an **Informatics student** building my foundation in **programming, web deve
 
 ### Tech Stack & Tools
 
-<!-- Frontend -->
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<!-- Languages -->
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-<!-- Environment & Tools -->
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
